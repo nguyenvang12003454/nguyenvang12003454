@@ -5,7 +5,7 @@
 
 ## Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyenvang.6902/) [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vangg_nguyen?t=6KJ_lg6Z9qlg5H6ahCF6tg&s=09)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyenvang.6902/) [![X (Twitter)](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/vangg_nguyen?t=6KJ_lg6Z9qlg5H6ahCF6tg&s=09)
 
 ## Github 
 

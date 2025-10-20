@@ -5,7 +5,7 @@
 
 ## Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyenvang.6902/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/bmd1905](https://www.linkedin.com/in/vang-nguy%E1%BB%85n-8b925722a/?trk=opento_sprofile_topcard)) [![X (Twitter)](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/vangg_nguyen?t=6KJ_lg6Z9qlg5H6ahCF6tg&s=09)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyenvang.6902/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenvang12003454/) [![X (Twitter)](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/vangg_nguyen?t=6KJ_lg6Z9qlg5H6ahCF6tg&s=09)
 
 ## Github 
 
